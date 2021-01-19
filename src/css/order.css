@@ -1,0 +1,13 @@
+#head,#container{
+    font-family: rockwell;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+#head{
+  background-color: rgba(46, 76, 167, 0.171);
+}
+
+tr:nth-of-type(even){
+    background-color:rgba(46, 76, 167, 0.637) ;
+}
